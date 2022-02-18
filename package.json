@@ -1,0 +1,27 @@
+{
+  "name": "com.meryel.yamldotnet-editor-only",
+  "version": "1.0.0",
+  "displayName": "YamlDotNet (Editor Only)",
+  "description": "YamlDotNet binaries for Unity (UPM) (Editor only)",
+  "license": "MIT",
+  "publishConfig": {
+    "registry": ""
+  },
+  "samples": [
+    {
+      "displayName": "Sample Code",
+      "description": "Sample code to test YamlDotNet functionality",
+      "path": "Samples~/Sample"
+    }
+  ],
+  "author": {
+    "name": "Meryel",
+    "email": "merryyellow@outlook.com",
+    "url": "meryel.netlify.app"
+  },
+  "repository": {
+    "type": "",
+    "url": "https://github.com/merryyellow/yamldotnet-editor-only.git"
+  },
+  "hideInEditor": false
+}
